@@ -8,32 +8,28 @@
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
 <task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+  <title>Method for DNA extraction </title>
   <taskbody>
-    <context>
-      <p>Changing the oil regularly will help keep the engine in good condition. </p>
-    </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>To extract the DNA:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Suspend 50 mg of tissue in 2 mL of SE buffer (75 mM NaCl, 25 mM EDTA pH 8.0).</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>Pass the suspension through a 19 gauge (G) syringe.</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>Add Proteinase K to a final concentration of 200 ug.</cmd>
       </step>
       <step>
-        <cmd>Add new oil to the engine.</cmd>
+        <cmd>Add 1% SDS. Mix. Incubate overnight at 37C.</cmd>
       </step>
       <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
+        <cmd>Add 2 M NaCl. Vortex for 20 seconds. Centrifuge at 1000 x g/ 20 minutes/ 25 C.</cmd>
       </step>
       <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Transfer supernatant to a fresh tube and add 2 volumes of 100% (v/v) cold
+          ethanol.</cmd>
       </step>
     </steps>
   </taskbody>
