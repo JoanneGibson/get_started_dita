@@ -9,10 +9,9 @@
   <title>Post mortem samples</title>
   <refbody>
     <section id="out-of-memory-error">
-      <title/>
+      <title>Post Mortem Samples</title>
       <p>
         <table frame="all" rowsep="1" colsep="1" id="table_b1x_5w2_kz">
-          <title>Post Mortem Samples</title>
           <tgroup cols="7">
             <colspec colname="c1" colnum="1" colwidth="1.0*"/>
             <colspec colname="c2" colnum="2" colwidth="1.0*"/>
@@ -30,13 +29,12 @@
                 <entry>Phenotype</entry>
                 <entry>Available regions</entry>
                 <entry>Source</entry>
-                <entry/>
               </row>
             </thead>
             <tbody>
               <row>
                 <entry>RTT 1</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -45,7 +43,7 @@
               </row>
               <row>
                 <entry>RTT 2</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -54,7 +52,7 @@
               </row>
               <row>
                 <entry>RTT 3</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -63,7 +61,7 @@
               </row>
               <row>
                 <entry>RTT 4</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -72,7 +70,7 @@
               </row>
               <row>
                 <entry>RTT 5</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -81,7 +79,7 @@
               </row>
               <row>
                 <entry>RTT 6</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -90,7 +88,7 @@
               </row>
               <row>
                 <entry>RTT 7</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -99,7 +97,7 @@
               </row>
               <row>
                 <entry>RTT 8</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -108,7 +106,7 @@
               </row>
               <row>
                 <entry>RTT 9</entry>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -117,16 +115,7 @@
               </row>
               <row>
                 <entry>RTT 10</entry>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-              </row>
-              <row>
-                <entry/>
-                <entry/>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -134,17 +123,8 @@
                 <entry/>
               </row>
               <row>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-              </row>
-              <row>
-                <entry/>
-                <entry/>
+                <entry>CTL 1</entry>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -152,17 +132,8 @@
                 <entry/>
               </row>
               <row>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-              </row>
-              <row>
-                <entry/>
-                <entry/>
+                <entry>CTL 2</entry>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -170,17 +141,8 @@
                 <entry/>
               </row>
               <row>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-                <entry/>
-              </row>
-              <row>
-                <entry/>
-                <entry/>
+                <entry>CTL 3</entry>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -188,8 +150,8 @@
                 <entry/>
               </row>
               <row>
-                <entry/>
-                <entry/>
+                <entry>CTL 4</entry>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>
@@ -197,8 +159,44 @@
                 <entry/>
               </row>
               <row>
+                <entry>CTL 5</entry>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CTL 6</entry>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CTL 7</entry>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CTL 8</entry>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CTL 9</entry>
+                <entry>F</entry>
                 <entry/>
                 <entry/>
                 <entry/>

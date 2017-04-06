@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;3:6" xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/mymap.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+ <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title " xtrc="title:1;4:10" xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/mymap.ditamap"/>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " xtrc="topicref:1;5:40" xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/mymap.ditamap" href="concept-example.xml" id="" ohref="concept-example.xml"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid class="- topic/resourceid " oxy-source="topic" appid=""/></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " xtrc="topicref:2;6:37" xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/mymap.ditamap" href="#unique_1" id="unique_1" type="task" ohref="task-example.xml" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="changeoil"><resourceid class="- topic/resourceid " oxy-source="topic" appid="changeoil"/><navtitle class="- topic/navtitle ">Method for DNA extraction </navtitle><?ditaot gentext?><linktext class="- map/linktext ">Method for DNA extraction</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " xtrc="topicref:3;7:42" xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/mymap.ditamap" href="#unique_3" id="unique_3" type="reference" ohref="reference-example.xml" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " data-topic-id="troubleshooting"><resourceid class="- topic/resourceid " oxy-source="topic" appid="troubleshooting"/><navtitle class="- topic/navtitle ">Post mortem samples</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Post mortem samples</linktext></topicmeta></topicref>
+</opentopic:map><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-us" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="task:1;10:39" oid="changeoil" id="unique_1">
+  <title class="- topic/title " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="title:1;11:10">Method for DNA extraction </title>
+  <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="taskbody:1;12:13">
+    <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="steps:1;13:12">
+      <stepsection class="- topic/li task/stepsection " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="stepsection:1;14:20">To extract the DNA:</stepsection>
+      <step class="- topic/li task/step " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="step:1;15:13">
+        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="cmd:1;16:14">Suspend 50 mg of tissue in 2 mL of SE buffer (75 mM NaCl, 25 mM EDTA pH 8.0).</cmd>
+      </step>
+      <step class="- topic/li task/step " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="step:2;18:13">
+        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="cmd:2;19:14">Pass the suspension through a 19 gauge (G) syringe.</cmd>
+      </step>
+      <step class="- topic/li task/step " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="step:3;21:13">
+        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="cmd:3;22:14">Add Proteinase K to a final concentration of 200 ug.</cmd>
+      </step>
+      <step class="- topic/li task/step " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="step:4;24:13">
+        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="cmd:4;25:14">Add 1% SDS. Mix. Incubate overnight at 37C.</cmd>
+      </step>
+      <step class="- topic/li task/step " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="step:5;27:13">
+        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="cmd:5;28:14">Add 2 M NaCl. Vortex for 20 seconds. Centrifuge at 1000 x g/ 20 minutes/ 25 C.</cmd>
+      </step>
+      <step class="- topic/li task/step " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="step:6;30:13">
+        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="cmd:6;31:14">Transfer supernatant to a fresh tube and add 2 volumes of 100% (v/v) cold
+          ethanol.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links class="- topic/related-links " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="related-links:1;36:18">
+    <link format="dita" href="#unique_2" type="concept" class="- topic/link " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="link:1;37:68" ohref="concept-example.xml"/>
+    <link format="dita" href="#unique_3" type="concept" class="- topic/link " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/task-example.xml" xtrc="link:2;38:70" ohref="reference-example.xml"><?ditaot gentext?><linktext class="- topic/linktext ">Post mortem samples</linktext></link>
+  </related-links>
+</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic       reference/reference " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="reference:1;8:50" oid="troubleshooting" id="unique_3">
+  <title class="- topic/title " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="title:1;9:10">Post mortem samples</title>
+  <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="refbody:1;10:12">
+    <section id="unique_3_Connect_42_out-of-memory-error" class="- topic/section " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="section:1;11:39">
+      <title class="- topic/title " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="title:2;12:15"/>
+      <p class="- topic/p " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="p:1;13:10">
+        <table frame="all" rowsep="1" colsep="1" id="unique_3_Connect_42_table_b1x_5w2_kz" class="- topic/table " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="table:1;14:72">
+          <title class="- topic/title " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="title:3;15:18">Post Mortem Samples</title>
+          <tgroup cols="7" class="- topic/tgroup " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="tgroup:1;16:28">
+            <colspec colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:1;17:63"/>
+            <colspec colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:2;18:63"/>
+            <colspec colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:3;19:63"/>
+            <colspec colname="col4" colnum="4" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:4;20:63"/>
+            <colspec colname="col5" colnum="5" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:5;21:63"/>
+            <colspec colname="col6" colnum="6" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:6;22:63"/>
+            <colspec colname="col7" colnum="7" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="colspec:7;23:63"/>
+            <thead class="- topic/thead " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="thead:1;24:20">
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:1;25:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:1;26:24" colname="col1" dita-ot:x="1" dita-ot:y="1">Name</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:2;27:24" colname="col2" dita-ot:x="2" dita-ot:y="1">Gender</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:3;28:24" colname="col3" dita-ot:x="3" dita-ot:y="1">Age </entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:4;29:24" colname="col4" dita-ot:x="4" dita-ot:y="1">PMI</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:5;30:24" colname="col5" dita-ot:x="5" dita-ot:y="1">Phenotype</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:6;31:24" colname="col6" dita-ot:x="6" dita-ot:y="1">Available regions</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:7;32:24" colname="col7" dita-ot:x="7" dita-ot:y="1">Source</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:8;33:25" colname="col8" dita-ot:x="8" dita-ot:y="1"/>
+              </row>
+            </thead>
+            <tbody class="- topic/tbody " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="tbody:1;36:20">
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:2;37:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:9;38:24" colname="col1" dita-ot:x="1" dita-ot:y="2">RTT 1</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:10;39:25" colname="col2" dita-ot:x="2" dita-ot:y="2"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:11;40:25" colname="col3" dita-ot:x="3" dita-ot:y="2"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:12;41:25" colname="col4" dita-ot:x="4" dita-ot:y="2"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:13;42:25" colname="col5" dita-ot:x="5" dita-ot:y="2"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:14;43:25" colname="col6" dita-ot:x="6" dita-ot:y="2"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:15;44:25" colname="col7" dita-ot:x="7" dita-ot:y="2"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:3;46:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:16;47:24" colname="col1" dita-ot:x="1" dita-ot:y="3">RTT 2</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:17;48:25" colname="col2" dita-ot:x="2" dita-ot:y="3"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:18;49:25" colname="col3" dita-ot:x="3" dita-ot:y="3"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:19;50:25" colname="col4" dita-ot:x="4" dita-ot:y="3"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:20;51:25" colname="col5" dita-ot:x="5" dita-ot:y="3"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:21;52:25" colname="col6" dita-ot:x="6" dita-ot:y="3"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:22;53:25" colname="col7" dita-ot:x="7" dita-ot:y="3"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:4;55:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:23;56:24" colname="col1" dita-ot:x="1" dita-ot:y="4">RTT 3</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:24;57:25" colname="col2" dita-ot:x="2" dita-ot:y="4"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:25;58:25" colname="col3" dita-ot:x="3" dita-ot:y="4"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:26;59:25" colname="col4" dita-ot:x="4" dita-ot:y="4"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:27;60:25" colname="col5" dita-ot:x="5" dita-ot:y="4"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:28;61:25" colname="col6" dita-ot:x="6" dita-ot:y="4"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:29;62:25" colname="col7" dita-ot:x="7" dita-ot:y="4"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:5;64:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:30;65:24" colname="col1" dita-ot:x="1" dita-ot:y="5">RTT 4</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:31;66:25" colname="col2" dita-ot:x="2" dita-ot:y="5"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:32;67:25" colname="col3" dita-ot:x="3" dita-ot:y="5"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:33;68:25" colname="col4" dita-ot:x="4" dita-ot:y="5"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:34;69:25" colname="col5" dita-ot:x="5" dita-ot:y="5"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:35;70:25" colname="col6" dita-ot:x="6" dita-ot:y="5"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:36;71:25" colname="col7" dita-ot:x="7" dita-ot:y="5"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:6;73:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:37;74:24" colname="col1" dita-ot:x="1" dita-ot:y="6">RTT 5</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:38;75:25" colname="col2" dita-ot:x="2" dita-ot:y="6"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:39;76:25" colname="col3" dita-ot:x="3" dita-ot:y="6"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:40;77:25" colname="col4" dita-ot:x="4" dita-ot:y="6"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:41;78:25" colname="col5" dita-ot:x="5" dita-ot:y="6"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:42;79:25" colname="col6" dita-ot:x="6" dita-ot:y="6"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:43;80:25" colname="col7" dita-ot:x="7" dita-ot:y="6"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:7;82:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:44;83:24" colname="col1" dita-ot:x="1" dita-ot:y="7">RTT 6</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:45;84:25" colname="col2" dita-ot:x="2" dita-ot:y="7"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:46;85:25" colname="col3" dita-ot:x="3" dita-ot:y="7"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:47;86:25" colname="col4" dita-ot:x="4" dita-ot:y="7"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:48;87:25" colname="col5" dita-ot:x="5" dita-ot:y="7"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:49;88:25" colname="col6" dita-ot:x="6" dita-ot:y="7"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:50;89:25" colname="col7" dita-ot:x="7" dita-ot:y="7"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:8;91:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:51;92:24" colname="col1" dita-ot:x="1" dita-ot:y="8">RTT 7</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:52;93:25" colname="col2" dita-ot:x="2" dita-ot:y="8"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:53;94:25" colname="col3" dita-ot:x="3" dita-ot:y="8"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:54;95:25" colname="col4" dita-ot:x="4" dita-ot:y="8"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:55;96:25" colname="col5" dita-ot:x="5" dita-ot:y="8"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:56;97:25" colname="col6" dita-ot:x="6" dita-ot:y="8"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:57;98:25" colname="col7" dita-ot:x="7" dita-ot:y="8"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:9;100:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:58;101:24" colname="col1" dita-ot:x="1" dita-ot:y="9">RTT 8</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:59;102:25" colname="col2" dita-ot:x="2" dita-ot:y="9"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:60;103:25" colname="col3" dita-ot:x="3" dita-ot:y="9"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:61;104:25" colname="col4" dita-ot:x="4" dita-ot:y="9"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:62;105:25" colname="col5" dita-ot:x="5" dita-ot:y="9"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:63;106:25" colname="col6" dita-ot:x="6" dita-ot:y="9"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:64;107:25" colname="col7" dita-ot:x="7" dita-ot:y="9"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:10;109:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:65;110:24" colname="col1" dita-ot:x="1" dita-ot:y="10">RTT 9</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:66;111:25" colname="col2" dita-ot:x="2" dita-ot:y="10"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:67;112:25" colname="col3" dita-ot:x="3" dita-ot:y="10"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:68;113:25" colname="col4" dita-ot:x="4" dita-ot:y="10"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:69;114:25" colname="col5" dita-ot:x="5" dita-ot:y="10"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:70;115:25" colname="col6" dita-ot:x="6" dita-ot:y="10"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:71;116:25" colname="col7" dita-ot:x="7" dita-ot:y="10"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:11;118:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:72;119:24" colname="col1" dita-ot:x="1" dita-ot:y="11">RTT 10</entry>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:73;120:25" colname="col2" dita-ot:x="2" dita-ot:y="11"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:74;121:25" colname="col3" dita-ot:x="3" dita-ot:y="11"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:75;122:25" colname="col4" dita-ot:x="4" dita-ot:y="11"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:76;123:25" colname="col5" dita-ot:x="5" dita-ot:y="11"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:77;124:25" colname="col6" dita-ot:x="6" dita-ot:y="11"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:78;125:25" colname="col7" dita-ot:x="7" dita-ot:y="11"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:12;127:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:79;128:25" colname="col1" dita-ot:x="1" dita-ot:y="12"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:80;129:25" colname="col2" dita-ot:x="2" dita-ot:y="12"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:81;130:25" colname="col3" dita-ot:x="3" dita-ot:y="12"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:82;131:25" colname="col4" dita-ot:x="4" dita-ot:y="12"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:83;132:25" colname="col5" dita-ot:x="5" dita-ot:y="12"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:84;133:25" colname="col6" dita-ot:x="6" dita-ot:y="12"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:85;134:25" colname="col7" dita-ot:x="7" dita-ot:y="12"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:13;136:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:86;137:25" colname="col1" dita-ot:x="1" dita-ot:y="13"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:87;138:25" colname="col2" dita-ot:x="2" dita-ot:y="13"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:88;139:25" colname="col3" dita-ot:x="3" dita-ot:y="13"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:89;140:25" colname="col4" dita-ot:x="4" dita-ot:y="13"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:90;141:25" colname="col5" dita-ot:x="5" dita-ot:y="13"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:91;142:25" colname="col6" dita-ot:x="6" dita-ot:y="13"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:92;143:25" colname="col7" dita-ot:x="7" dita-ot:y="13"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:14;145:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:93;146:25" colname="col1" dita-ot:x="1" dita-ot:y="14"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:94;147:25" colname="col2" dita-ot:x="2" dita-ot:y="14"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:95;148:25" colname="col3" dita-ot:x="3" dita-ot:y="14"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:96;149:25" colname="col4" dita-ot:x="4" dita-ot:y="14"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:97;150:25" colname="col5" dita-ot:x="5" dita-ot:y="14"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:98;151:25" colname="col6" dita-ot:x="6" dita-ot:y="14"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:99;152:25" colname="col7" dita-ot:x="7" dita-ot:y="14"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:15;154:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:100;155:25" colname="col1" dita-ot:x="1" dita-ot:y="15"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:101;156:25" colname="col2" dita-ot:x="2" dita-ot:y="15"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:102;157:25" colname="col3" dita-ot:x="3" dita-ot:y="15"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:103;158:25" colname="col4" dita-ot:x="4" dita-ot:y="15"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:104;159:25" colname="col5" dita-ot:x="5" dita-ot:y="15"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:105;160:25" colname="col6" dita-ot:x="6" dita-ot:y="15"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:106;161:25" colname="col7" dita-ot:x="7" dita-ot:y="15"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:16;163:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:107;164:25" colname="col1" dita-ot:x="1" dita-ot:y="16"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:108;165:25" colname="col2" dita-ot:x="2" dita-ot:y="16"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:109;166:25" colname="col3" dita-ot:x="3" dita-ot:y="16"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:110;167:25" colname="col4" dita-ot:x="4" dita-ot:y="16"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:111;168:25" colname="col5" dita-ot:x="5" dita-ot:y="16"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:112;169:25" colname="col6" dita-ot:x="6" dita-ot:y="16"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:113;170:25" colname="col7" dita-ot:x="7" dita-ot:y="16"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:17;172:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:114;173:25" colname="col1" dita-ot:x="1" dita-ot:y="17"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:115;174:25" colname="col2" dita-ot:x="2" dita-ot:y="17"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:116;175:25" colname="col3" dita-ot:x="3" dita-ot:y="17"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:117;176:25" colname="col4" dita-ot:x="4" dita-ot:y="17"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:118;177:25" colname="col5" dita-ot:x="5" dita-ot:y="17"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:119;178:25" colname="col6" dita-ot:x="6" dita-ot:y="17"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:120;179:25" colname="col7" dita-ot:x="7" dita-ot:y="17"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:18;181:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:121;182:25" colname="col1" dita-ot:x="1" dita-ot:y="18"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:122;183:25" colname="col2" dita-ot:x="2" dita-ot:y="18"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:123;184:25" colname="col3" dita-ot:x="3" dita-ot:y="18"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:124;185:25" colname="col4" dita-ot:x="4" dita-ot:y="18"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:125;186:25" colname="col5" dita-ot:x="5" dita-ot:y="18"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:126;187:25" colname="col6" dita-ot:x="6" dita-ot:y="18"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:127;188:25" colname="col7" dita-ot:x="7" dita-ot:y="18"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:19;190:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:128;191:25" colname="col1" dita-ot:x="1" dita-ot:y="19"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:129;192:25" colname="col2" dita-ot:x="2" dita-ot:y="19"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:130;193:25" colname="col3" dita-ot:x="3" dita-ot:y="19"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:131;194:25" colname="col4" dita-ot:x="4" dita-ot:y="19"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:132;195:25" colname="col5" dita-ot:x="5" dita-ot:y="19"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:133;196:25" colname="col6" dita-ot:x="6" dita-ot:y="19"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:134;197:25" colname="col7" dita-ot:x="7" dita-ot:y="19"/>
+              </row>
+              <row class="- topic/row " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="row:20;199:20">
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:135;200:25" colname="col1" dita-ot:x="1" dita-ot:y="20"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:136;201:25" colname="col2" dita-ot:x="2" dita-ot:y="20"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:137;202:25" colname="col3" dita-ot:x="3" dita-ot:y="20"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:138;203:25" colname="col4" dita-ot:x="4" dita-ot:y="20"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:139;204:25" colname="col5" dita-ot:x="5" dita-ot:y="20"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:140;205:25" colname="col6" dita-ot:x="6" dita-ot:y="20"/>
+                <entry class="- topic/entry " xtrf="file:/C:/Users/jgibson/Documents/GitHub/get_started_dita/reference-example.xml" xtrc="entry:141;206:25" colname="col7" dita-ot:x="7" dita-ot:y="20"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </section>
+  </refbody>
+</reference></map>
