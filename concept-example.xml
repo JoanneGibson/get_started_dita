@@ -9,12 +9,11 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <author>Your name</author>
-  <title>2.2.1 Isolation of genomic DNA from post mortem tissue</title>
+  <title>Isolation of genomic DNA from post mortem tissue</title>
   <conbody>
-    <p>Genomic DNA was extracted from the post mortem tissue samples listed in Table 2.1 and 2.2 for
-      both mutation analysis and X chromosome inactivation studies, using a modified version of
-      Sambrook (Sambrook and Russell, 2001).</p>
+    <p>Genomic DNA was extracted from the post mortem tissue samples listed in Table 2.1 for
+      mutation analysis and X chromosome inactivation studies, using a modified version of Sambrook
+      (Sambrook and Russell, 2001).</p>
     <p>DNA was isolated from the frontal and occipital cortices in each case, and parietal cortex,
       cerebellum, substantia nigra, thalamus, temporal cortex, and hippocampus subject to
       availability. The outer cortical layers were obtained using a scalpel and forceps whilst the
